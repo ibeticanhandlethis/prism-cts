@@ -2,21 +2,21 @@
     "formatVersion": 1,
     "libraries": [
         {
-            "name": "net.fabricmc:intermediary:1.16_combat-6",
-            "url": "https://maven.combatreforged.com"
+            "name": "net.fabricmc:intermediary:22w43a",
+            "url": "https://maven.fabricmc.net"
         }
     ],
     "name": "Intermediary Mappings",
     "order": 11,
-    "releaseTime": "2021-04-28T21:09:12+03:00",
+    "releaseTime": "2022-10-26T14:06:37+00:00",
     "requires": [
         {
-            "equals": "1.16_combat-6",
+            "equals": "22w43a",
             "uid": "net.minecraft"
         }
     ],
     "type": "release",
     "uid": "net.fabricmc.intermediary",
-    "version": "1.16_combat-6",
+    "version": "22w43a",
     "volatile": true
 }
