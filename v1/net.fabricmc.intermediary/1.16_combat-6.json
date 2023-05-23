@@ -3,12 +3,11 @@
     "libraries": [
         {
             "name": "net.fabricmc:intermediary:1.16_combat-6",
-            "url": "https://maven.combatreforged.com"
+            "url": "https://maven.fabric.rizecookey.net/"
         }
     ],
     "name": "Intermediary Mappings",
-    "order": 11,
-    "releaseTime": "2021-04-28T21:09:12+03:00",
+    "releaseTime": "2021-11-20T05:54:29+0100",
     "requires": [
         {
             "equals": "1.16_combat-6",
