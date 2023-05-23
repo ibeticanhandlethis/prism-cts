@@ -3,7 +3,7 @@
     "libraries": [
         {
             "name": "net.fabricmc:intermediary:1.16_combat-6",
-            "url": "https://maven.combatreforged.com"
+            "url": "https://maven.fabric.rizecookey.net/"
         }
     ],
     "name": "Intermediary Mappings",
