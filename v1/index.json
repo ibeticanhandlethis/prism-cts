@@ -8,37 +8,42 @@
         },
         {
             "name": "Fabric Loader",
-            "sha256": "97ec26493bb75b561b6edc9392ec692ca4087b35414ae2c138bcccc53035bf9d",
+            "sha256": "08723fc46ba7ed8a2260225970bbe5a20688529f6cafcd9abe4be213ed61a3d2",
             "uid": "net.fabricmc.fabric-loader"
         },
         {
             "name": "Intermediary Mappings",
-            "sha256": "6a3605bd6c50bccdb175d227d680d0967ea51c98be1641188ac19249d14ade50",
+            "sha256": "75c4749f41a676114fad66d036e98753f5514d9336a0346f66056207cf4f042a",
             "uid": "net.fabricmc.intermediary"
         },
         {
             "name": "Minecraft",
-            "sha256": "5e14a80bd1e645cfcf0826bbd36953bac117734fa2a4422aaa19ed9e150b4687",
+            "sha256": "ee518883571cf1e74f4ac711eab26f24f87a1bad7fbc954fb4404046c99641bb",
             "uid": "net.minecraft"
         },
         {
             "name": "Forge",
-            "sha256": "eb4c65e2662fe3c80590cb5a866923b4967d64d768ffc10a1588925f4f5070b8",
+            "sha256": "570aa8e41b7da878189a0082f34de3d4ec1a015c941d50cb91c272b80afe4b20",
             "uid": "net.minecraftforge"
         },
         {
+            "name": "NeoForge",
+            "sha256": "8166edf5ac9bf7eb06eb1eab6419463882c25ce1ca6cbf5aaa5cd6f9713bfb50",
+            "uid": "net.neoforged"
+        },
+        {
             "name": "LWJGL 2",
-            "sha256": "d7246639e6207282d6b3731d1395e0e076c09ddac0a020ea4e5278be74c1d2fc",
+            "sha256": "c0094ab29be4be93b7cf0e05067608814afb6c4f40223784ecb69e6635cd6bbf",
             "uid": "org.lwjgl"
         },
         {
             "name": "LWJGL 3",
-            "sha256": "1e57e09cf493a60d7b3aceb41c6ba17cbe5f3cfb88bcc9bd7d0a6a9a62d3e22b",
+            "sha256": "e609325d41c5be2a325a1061becc832d41baa3a3e13107990be1ba3198fe31da",
             "uid": "org.lwjgl3"
         },
         {
             "name": "Quilt Loader",
-            "sha256": "b5e3d39836c363e64cc349ef5abdf5a5c12c35fc655a854db46991a299929884",
+            "sha256": "1985456037b5848facd4c31e87e1baef4469a13dcc6a03986ab54643de5875f3",
             "uid": "org.quiltmc.quilt-loader"
         }
     ]

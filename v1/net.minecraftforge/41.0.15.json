@@ -4,12 +4,12 @@
         {
             "downloads": {
                 "artifact": {
-                    "sha1": "4ee5f25cc9c7efbf54aff4c695da1054c1a1d7a3",
-                    "size": 34444,
-                    "url": "https://files.prismlauncher.org/maven/io/github/zekerzhayard/ForgeWrapper/mmc2/ForgeWrapper-mmc2.jar"
+                    "sha1": "86c6791e32ac6478dabf9663f0ad19f8b6465dfe",
+                    "size": 35483,
+                    "url": "https://files.prismlauncher.org/maven/io/github/zekerzhayard/ForgeWrapper/prism-2024-02-29/ForgeWrapper-prism-2024-02-29.jar"
                 }
             },
-            "name": "io.github.zekerzhayard:ForgeWrapper:mmc2"
+            "name": "io.github.zekerzhayard:ForgeWrapper:prism-2024-02-29"
         },
         {
             "downloads": {
@@ -281,9 +281,9 @@
         {
             "downloads": {
                 "artifact": {
-                    "sha1": "8a433424875de6a2f16b50f754b7f1d13dd76d26",
-                    "size": 6596172,
-                    "url": "https://files.minecraftforge.net/maven/net/minecraftforge/forge/1.19-41.0.15/forge-1.19-41.0.15-installer.jar"
+                    "sha1": "a7f4546898e1f05df9ac06359da7aca6e855c91c",
+                    "size": 6663301,
+                    "url": "https://maven.minecraftforge.net/net/minecraftforge/forge/1.19-41.0.15/forge-1.19-41.0.15-installer.jar"
                 }
             },
             "name": "net.minecraftforge:forge:1.19-41.0.15:installer"
@@ -514,7 +514,7 @@
                     "path": "net/minecraftforge/forge/1.19-41.0.15/forge-1.19-41.0.15-universal.jar",
                     "sha1": "6208c81e2afdf50c5b42f681e2ab502b7bcdb550",
                     "size": 2412191,
-                    "url": "https://files.minecraftforge.net/maven/net/minecraftforge/forge/1.19-41.0.15/forge-1.19-41.0.15-universal.jar"
+                    "url": "https://maven.minecraftforge.net/net/minecraftforge/forge/1.19-41.0.15/forge-1.19-41.0.15-universal.jar"
                 }
             },
             "name": "net.minecraftforge:forge:1.19-41.0.15:universal"

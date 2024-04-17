@@ -4,12 +4,12 @@
         {
             "downloads": {
                 "artifact": {
-                    "sha1": "4ee5f25cc9c7efbf54aff4c695da1054c1a1d7a3",
-                    "size": 34444,
-                    "url": "https://files.prismlauncher.org/maven/io/github/zekerzhayard/ForgeWrapper/mmc2/ForgeWrapper-mmc2.jar"
+                    "sha1": "86c6791e32ac6478dabf9663f0ad19f8b6465dfe",
+                    "size": 35483,
+                    "url": "https://files.prismlauncher.org/maven/io/github/zekerzhayard/ForgeWrapper/prism-2024-02-29/ForgeWrapper-prism-2024-02-29.jar"
                 }
             },
-            "name": "io.github.zekerzhayard:ForgeWrapper:mmc2"
+            "name": "io.github.zekerzhayard:ForgeWrapper:prism-2024-02-29"
         },
         {
             "downloads": {
@@ -17,7 +17,7 @@
                     "path": "net/minecraftforge/forge/1.14.4-28.0.24/forge-1.14.4-28.0.24-launcher.jar",
                     "sha1": "675d450fc646abcd99f2ae218e5e18e608110123",
                     "size": 160617,
-                    "url": "https://files.minecraftforge.net/maven/net/minecraftforge/forge/1.14.4-28.0.24/forge-1.14.4-28.0.24-launcher.jar"
+                    "url": "https://maven.minecraftforge.net/net/minecraftforge/forge/1.14.4-28.0.24/forge-1.14.4-28.0.24-launcher.jar"
                 }
             },
             "name": "net.minecraftforge:forge:1.14.4-28.0.24:launcher"
@@ -226,9 +226,9 @@
         {
             "downloads": {
                 "artifact": {
-                    "sha1": "1319603c467c7bdcef14007178dd37939c930142",
-                    "size": 7306263,
-                    "url": "https://files.minecraftforge.net/maven/net/minecraftforge/forge/1.14.4-28.0.24/forge-1.14.4-28.0.24-installer.jar"
+                    "sha1": "9379def95d9cc1692f0dc7d7b00fe5e0b852ca02",
+                    "size": 7401101,
+                    "url": "https://maven.minecraftforge.net/net/minecraftforge/forge/1.14.4-28.0.24/forge-1.14.4-28.0.24-installer.jar"
                 }
             },
             "name": "net.minecraftforge:forge:1.14.4-28.0.24:installer"
@@ -371,7 +371,7 @@
                     "path": "net/minecraftforge/forge/1.14.4-28.0.24/forge-1.14.4-28.0.24-universal.jar",
                     "sha1": "3cda6fcab4156a97343b0e0981fcde4e568e7ecf",
                     "size": 2036861,
-                    "url": "https://files.minecraftforge.net/maven/net/minecraftforge/forge/1.14.4-28.0.24/forge-1.14.4-28.0.24-universal.jar"
+                    "url": "https://maven.minecraftforge.net/net/minecraftforge/forge/1.14.4-28.0.24/forge-1.14.4-28.0.24-universal.jar"
                 }
             },
             "name": "net.minecraftforge:forge:1.14.4-28.0.24:universal"

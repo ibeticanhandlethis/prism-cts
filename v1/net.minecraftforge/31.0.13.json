@@ -4,12 +4,12 @@
         {
             "downloads": {
                 "artifact": {
-                    "sha1": "4ee5f25cc9c7efbf54aff4c695da1054c1a1d7a3",
-                    "size": 34444,
-                    "url": "https://files.prismlauncher.org/maven/io/github/zekerzhayard/ForgeWrapper/mmc2/ForgeWrapper-mmc2.jar"
+                    "sha1": "86c6791e32ac6478dabf9663f0ad19f8b6465dfe",
+                    "size": 35483,
+                    "url": "https://files.prismlauncher.org/maven/io/github/zekerzhayard/ForgeWrapper/prism-2024-02-29/ForgeWrapper-prism-2024-02-29.jar"
                 }
             },
-            "name": "io.github.zekerzhayard:ForgeWrapper:mmc2"
+            "name": "io.github.zekerzhayard:ForgeWrapper:prism-2024-02-29"
         },
         {
             "downloads": {
@@ -17,7 +17,7 @@
                     "path": "net/minecraftforge/forge/1.15.2-31.0.13/forge-1.15.2-31.0.13-launcher.jar",
                     "sha1": "523bc6a8770b4531c3f8a14734d87319c8c4dc5b",
                     "size": 183618,
-                    "url": "https://files.minecraftforge.net/maven/net/minecraftforge/forge/1.15.2-31.0.13/forge-1.15.2-31.0.13-launcher.jar"
+                    "url": "https://maven.minecraftforge.net/net/minecraftforge/forge/1.15.2-31.0.13/forge-1.15.2-31.0.13-launcher.jar"
                 }
             },
             "name": "net.minecraftforge:forge:1.15.2-31.0.13:launcher"
@@ -215,9 +215,9 @@
         {
             "downloads": {
                 "artifact": {
-                    "sha1": "2b0b17321efaec057c2036c7c257245befd5b7a3",
-                    "size": 8107218,
-                    "url": "https://files.minecraftforge.net/maven/net/minecraftforge/forge/1.15.2-31.0.13/forge-1.15.2-31.0.13-installer.jar"
+                    "sha1": "f8529b2e32e05b31c72cd4368d85c17f1e671bf5",
+                    "size": 8202056,
+                    "url": "https://maven.minecraftforge.net/net/minecraftforge/forge/1.15.2-31.0.13/forge-1.15.2-31.0.13-installer.jar"
                 }
             },
             "name": "net.minecraftforge:forge:1.15.2-31.0.13:installer"
@@ -360,7 +360,7 @@
                     "path": "net/minecraftforge/forge/1.15.2-31.0.13/forge-1.15.2-31.0.13-universal.jar",
                     "sha1": "2189fdebb64ebdb3ec3f7fa3c1d3f6344ee41419",
                     "size": 2159293,
-                    "url": "https://files.minecraftforge.net/maven/net/minecraftforge/forge/1.15.2-31.0.13/forge-1.15.2-31.0.13-universal.jar"
+                    "url": "https://maven.minecraftforge.net/net/minecraftforge/forge/1.15.2-31.0.13/forge-1.15.2-31.0.13-universal.jar"
                 }
             },
             "name": "net.minecraftforge:forge:1.15.2-31.0.13:universal"

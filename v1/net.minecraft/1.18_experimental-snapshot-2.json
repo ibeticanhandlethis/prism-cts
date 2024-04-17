@@ -12,9 +12,7 @@
     },
     "compatibleJavaMajors": [
         16,
-        17,
-        18,
-        19
+        17
     ],
     "formatVersion": 1,
     "libraries": [

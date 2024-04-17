@@ -4,12 +4,12 @@
         {
             "downloads": {
                 "artifact": {
-                    "sha1": "4ee5f25cc9c7efbf54aff4c695da1054c1a1d7a3",
-                    "size": 34444,
-                    "url": "https://files.prismlauncher.org/maven/io/github/zekerzhayard/ForgeWrapper/mmc2/ForgeWrapper-mmc2.jar"
+                    "sha1": "86c6791e32ac6478dabf9663f0ad19f8b6465dfe",
+                    "size": 35483,
+                    "url": "https://files.prismlauncher.org/maven/io/github/zekerzhayard/ForgeWrapper/prism-2024-02-29/ForgeWrapper-prism-2024-02-29.jar"
                 }
             },
-            "name": "io.github.zekerzhayard:ForgeWrapper:mmc2"
+            "name": "io.github.zekerzhayard:ForgeWrapper:prism-2024-02-29"
         },
         {
             "downloads": {
@@ -292,9 +292,9 @@
         {
             "downloads": {
                 "artifact": {
-                    "sha1": "4d4c088ebbb81b6ffe3a04ddb007f9fde3b60b56",
-                    "size": 6645728,
-                    "url": "https://files.minecraftforge.net/maven/net/minecraftforge/forge/1.18.2-40.1.78/forge-1.18.2-40.1.78-installer.jar"
+                    "sha1": "70151e65759f4b805a41af497f456f094170711e",
+                    "size": 6712845,
+                    "url": "https://maven.minecraftforge.net/net/minecraftforge/forge/1.18.2-40.1.78/forge-1.18.2-40.1.78-installer.jar"
                 }
             },
             "name": "net.minecraftforge:forge:1.18.2-40.1.78:installer"
@@ -525,7 +525,7 @@
                     "path": "net/minecraftforge/forge/1.18.2-40.1.78/forge-1.18.2-40.1.78-universal.jar",
                     "sha1": "1a70270c13baec461afc939ae728e584e48eea0c",
                     "size": 2541869,
-                    "url": "https://files.minecraftforge.net/maven/net/minecraftforge/forge/1.18.2-40.1.78/forge-1.18.2-40.1.78-universal.jar"
+                    "url": "https://maven.minecraftforge.net/net/minecraftforge/forge/1.18.2-40.1.78/forge-1.18.2-40.1.78-universal.jar"
                 }
             },
             "name": "net.minecraftforge:forge:1.18.2-40.1.78:universal"

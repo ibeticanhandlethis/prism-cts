@@ -4,12 +4,12 @@
         {
             "downloads": {
                 "artifact": {
-                    "sha1": "4ee5f25cc9c7efbf54aff4c695da1054c1a1d7a3",
-                    "size": 34444,
-                    "url": "https://files.prismlauncher.org/maven/io/github/zekerzhayard/ForgeWrapper/mmc2/ForgeWrapper-mmc2.jar"
+                    "sha1": "86c6791e32ac6478dabf9663f0ad19f8b6465dfe",
+                    "size": 35483,
+                    "url": "https://files.prismlauncher.org/maven/io/github/zekerzhayard/ForgeWrapper/prism-2024-02-29/ForgeWrapper-prism-2024-02-29.jar"
                 }
             },
-            "name": "io.github.zekerzhayard:ForgeWrapper:mmc2"
+            "name": "io.github.zekerzhayard:ForgeWrapper:prism-2024-02-29"
         },
         {
             "downloads": {
@@ -325,9 +325,9 @@
         {
             "downloads": {
                 "artifact": {
-                    "sha1": "4596cafa6385728f47afa8108f3410130ed2fb63",
-                    "size": 5294343,
-                    "url": "https://files.minecraftforge.net/maven/net/minecraftforge/forge/1.17.1-37.0.114/forge-1.17.1-37.0.114-installer.jar"
+                    "sha1": "c13566a8e0bf50af9c7ef5c37e9ef6607704b182",
+                    "size": 5364176,
+                    "url": "https://maven.minecraftforge.net/net/minecraftforge/forge/1.17.1-37.0.114/forge-1.17.1-37.0.114-installer.jar"
                 }
             },
             "name": "net.minecraftforge:forge:1.17.1-37.0.114:installer"
@@ -624,7 +624,7 @@
                     "path": "net/minecraftforge/forge/1.17.1-37.0.114/forge-1.17.1-37.0.114-universal.jar",
                     "sha1": "5f18ae4541d39e27cef8169fb50faa56fdc92d86",
                     "size": 2336689,
-                    "url": "https://files.minecraftforge.net/maven/net/minecraftforge/forge/1.17.1-37.0.114/forge-1.17.1-37.0.114-universal.jar"
+                    "url": "https://maven.minecraftforge.net/net/minecraftforge/forge/1.17.1-37.0.114/forge-1.17.1-37.0.114-universal.jar"
                 }
             },
             "name": "net.minecraftforge:forge:1.17.1-37.0.114:universal"

@@ -4,12 +4,12 @@
         {
             "downloads": {
                 "artifact": {
-                    "sha1": "4ee5f25cc9c7efbf54aff4c695da1054c1a1d7a3",
-                    "size": 34444,
-                    "url": "https://files.prismlauncher.org/maven/io/github/zekerzhayard/ForgeWrapper/mmc2/ForgeWrapper-mmc2.jar"
+                    "sha1": "86c6791e32ac6478dabf9663f0ad19f8b6465dfe",
+                    "size": 35483,
+                    "url": "https://files.prismlauncher.org/maven/io/github/zekerzhayard/ForgeWrapper/prism-2024-02-29/ForgeWrapper-prism-2024-02-29.jar"
                 }
             },
-            "name": "io.github.zekerzhayard:ForgeWrapper:mmc2"
+            "name": "io.github.zekerzhayard:ForgeWrapper:prism-2024-02-29"
         },
         {
             "downloads": {
@@ -17,7 +17,7 @@
                     "path": "net/minecraftforge/forge/1.16.5-36.1.26/forge-1.16.5-36.1.26-launcher.jar",
                     "sha1": "ddd0fca545d827f0150988c2429a5381ebd8f1e3",
                     "size": 210516,
-                    "url": "https://files.minecraftforge.net/maven/net/minecraftforge/forge/1.16.5-36.1.26/forge-1.16.5-36.1.26-launcher.jar"
+                    "url": "https://maven.minecraftforge.net/net/minecraftforge/forge/1.16.5-36.1.26/forge-1.16.5-36.1.26-launcher.jar"
                 }
             },
             "name": "net.minecraftforge:forge:1.16.5-36.1.26:launcher"
@@ -270,9 +270,9 @@
         {
             "downloads": {
                 "artifact": {
-                    "sha1": "1bd78cab83da47b234113b8a95eff4906ab695e7",
-                    "size": 7239847,
-                    "url": "https://files.minecraftforge.net/maven/net/minecraftforge/forge/1.16.5-36.1.26/forge-1.16.5-36.1.26-installer.jar"
+                    "sha1": "94d945b25e1a40e732dfbacc297d22e7245f169c",
+                    "size": 7334685,
+                    "url": "https://maven.minecraftforge.net/net/minecraftforge/forge/1.16.5-36.1.26/forge-1.16.5-36.1.26-installer.jar"
                 }
             },
             "name": "net.minecraftforge:forge:1.16.5-36.1.26:installer"
@@ -426,7 +426,7 @@
                     "path": "net/minecraftforge/forge/1.16.5-36.1.26/forge-1.16.5-36.1.26-universal.jar",
                     "sha1": "abdcd2938d5ce1e7a03ced4f10a00b69cae189aa",
                     "size": 2424486,
-                    "url": "https://files.minecraftforge.net/maven/net/minecraftforge/forge/1.16.5-36.1.26/forge-1.16.5-36.1.26-universal.jar"
+                    "url": "https://maven.minecraftforge.net/net/minecraftforge/forge/1.16.5-36.1.26/forge-1.16.5-36.1.26-universal.jar"
                 }
             },
             "name": "net.minecraftforge:forge:1.16.5-36.1.26:universal"

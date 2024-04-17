@@ -5,15 +5,13 @@
     ],
     "assetIndex": {
         "id": "1.19",
-        "sha1": "f7033757bcb91e11d79f0f31330d680cc787631f",
-        "size": 385610,
-        "totalSize": 556515819,
-        "url": "https://piston-meta.mojang.com/v1/packages/f7033757bcb91e11d79f0f31330d680cc787631f/1.19.json"
+        "sha1": "a9c8b05a8082a65678beda6dfa2b8f21fa627bce",
+        "size": 385608,
+        "totalSize": 557023211,
+        "url": "https://piston-meta.mojang.com/v1/packages/a9c8b05a8082a65678beda6dfa2b8f21fa627bce/1.19.json"
     },
     "compatibleJavaMajors": [
-        17,
-        18,
-        19
+        17
     ],
     "formatVersion": 1,
     "libraries": [
@@ -305,30 +303,7 @@
                     "url": "https://libraries.minecraft.net/com/mojang/text2speech/1.13.9/text2speech-1.13.9.jar"
                 }
             },
-            "name": "com.mojang:text2speech:1.13.9",
-            "rules": [
-                {
-                    "action": "allow"
-                },
-                {
-                    "action": "disallow",
-                    "os": {
-                        "name": "osx-arm64"
-                    }
-                },
-                {
-                    "action": "disallow",
-                    "os": {
-                        "name": "linux-arm64"
-                    }
-                },
-                {
-                    "action": "disallow",
-                    "os": {
-                        "name": "linux-arm32"
-                    }
-                }
-            ]
+            "name": "com.mojang:text2speech:1.13.9"
         },
         {
             "downloads": {
@@ -359,30 +334,7 @@
             "natives": {
                 "linux": "natives-linux",
                 "windows": "natives-windows"
-            },
-            "rules": [
-                {
-                    "action": "allow"
-                },
-                {
-                    "action": "disallow",
-                    "os": {
-                        "name": "osx-arm64"
-                    }
-                },
-                {
-                    "action": "disallow",
-                    "os": {
-                        "name": "linux-arm64"
-                    }
-                },
-                {
-                    "action": "disallow",
-                    "os": {
-                        "name": "linux-arm32"
-                    }
-                }
-            ]
+            }
         },
         {
             "downloads": {
@@ -407,36 +359,6 @@
                     }
                 }
             ]
-        },
-        {
-            "downloads": {
-                "artifact": {
-                    "sha1": "f378f889797edd7df8d32272c06ca80a1b6b0f58",
-                    "size": 13164,
-                    "url": "https://libraries.minecraft.net/com/mojang/text2speech/1.11.3/text2speech-1.11.3.jar"
-                }
-            },
-            "name": "com.mojang:text2speech:1.11.3",
-            "rules": [
-                {
-                    "action": "allow",
-                    "os": {
-                        "name": "osx-arm64"
-                    }
-                },
-                {
-                    "action": "allow",
-                    "os": {
-                        "name": "linux-arm64"
-                    }
-                },
-                {
-                    "action": "allow",
-                    "os": {
-                        "name": "linux-arm32"
-                    }
-                }
-            ]
         }
     ],
     "mainClass": "net.minecraft.client.main.Main",
@@ -445,7 +367,7 @@
             "artifact": {
                 "sha1": "4e8f686a40481690d16b006bbe571f5fdbc54d05",
                 "size": 21276100,
-                "url": "https://launcher.mojang.com/v1/objects/4e8f686a40481690d16b006bbe571f5fdbc54d05/client.jar"
+                "url": "https://piston-data.mojang.com/v1/objects/4e8f686a40481690d16b006bbe571f5fdbc54d05/client.jar"
             }
         },
         "name": "com.mojang:minecraft:22w16a:client"
