@@ -5,14 +5,14 @@
     "versions": [
         {
             "recommended": false,
-            "releaseTime": "2024-04-18T17:23:34+00:00",
-            "sha256": "32f0aca429e2b80a9cdd8ef8ad2a24a65d03c7505f567ecfd4671ce56440e8bc",
+            "releaseTime": "2024-04-23T09:36:44+00:00",
+            "sha256": "89bda1a2f920d9a6a309001c7af1fd5d855faccec9d140fe456d2cf1eca757fd",
             "version": "java21"
         },
         {
             "recommended": false,
             "releaseTime": "2021-11-15T13:49:56+00:00",
-            "sha256": "4c7ae62a5f01b55f5ab3aa9ce8f25c35ea3d926735379f343c3797e3f5c9120e",
+            "sha256": "21e1fff80ae2158ea0928f37d84726d9464d7d6dcfdf3ca9266726c95099cd92",
             "version": "java17"
         },
         {
@@ -24,7 +24,7 @@
         {
             "recommended": false,
             "releaseTime": "2020-11-17T19:06:44+00:00",
-            "sha256": "0a776aab3d14e2eead13d66c7cf256a949a7c9a8fff59ad5ee15a206ba3b897a",
+            "sha256": "80691d3f336e3dbe40fff0a1b3e4016b85b91c1dc2f9957c4e94284d91919836",
             "version": "java8"
         }
     ]

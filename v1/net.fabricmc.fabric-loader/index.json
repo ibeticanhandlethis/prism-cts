@@ -4,6 +4,66 @@
     "uid": "net.fabricmc.fabric-loader",
     "versions": [
         {
+            "recommended": true,
+            "releaseTime": "2024-09-07T14:18:33+00:00",
+            "requires": [
+                {
+                    "uid": "net.fabricmc.intermediary"
+                }
+            ],
+            "sha256": "2c5f2af62a623dc2e251a3dc975c8cf27bc59023314ae1d559004fef04a67ee8",
+            "type": "release",
+            "version": "0.16.5"
+        },
+        {
+            "recommended": false,
+            "releaseTime": "2024-09-03T08:37:06+00:00",
+            "requires": [
+                {
+                    "uid": "net.fabricmc.intermediary"
+                }
+            ],
+            "sha256": "2a28d3d3c618c6d9db3355cb3c86ed3e5f45d4f7df59111b9a0ca2b9cd618832",
+            "type": "release",
+            "version": "0.16.4"
+        },
+        {
+            "recommended": false,
+            "releaseTime": "2024-08-26T11:56:41+00:00",
+            "requires": [
+                {
+                    "uid": "net.fabricmc.intermediary"
+                }
+            ],
+            "sha256": "0bb6109652b23277c25cbb3934c14dd9005e2b45b9613f80a7f04e5a1ac1c0e9",
+            "type": "release",
+            "version": "0.16.3"
+        },
+        {
+            "recommended": false,
+            "releaseTime": "2024-08-15T18:37:57+00:00",
+            "requires": [
+                {
+                    "uid": "net.fabricmc.intermediary"
+                }
+            ],
+            "sha256": "1fa48dca7f5aa32f57676297a563ea2263fdc3534bfa27c001744841d3134065",
+            "type": "release",
+            "version": "0.16.2"
+        },
+        {
+            "recommended": false,
+            "releaseTime": "2024-08-15T09:23:33+00:00",
+            "requires": [
+                {
+                    "uid": "net.fabricmc.intermediary"
+                }
+            ],
+            "sha256": "1193bb5d8d6f300937981a951127158e50b9841cae8ce2bea5dc6b6818f6c009",
+            "type": "release",
+            "version": "0.16.1"
+        },
+        {
             "recommended": false,
             "releaseTime": "2024-07-11T16:48:57+00:00",
             "requires": [
@@ -16,7 +76,7 @@
             "version": "0.16.0"
         },
         {
-            "recommended": true,
+            "recommended": false,
             "releaseTime": "2024-05-03T13:26:12+00:00",
             "requires": [
                 {
