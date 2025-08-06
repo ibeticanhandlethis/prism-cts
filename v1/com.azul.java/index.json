@@ -5,8 +5,14 @@
     "versions": [
         {
             "recommended": false,
-            "releaseTime": "2024-08-23T09:12:17+00:00",
-            "sha256": "15addc19337a6a0793f0d01bac2a9579c69a9927282ae5184bbecb061f041295",
+            "releaseTime": "2025-07-11T12:39:17+00:00",
+            "sha256": "7b472dc67e9a7bfaa3bbb2ccd7d945311617d47d1d877a1683eebb3e3772ee96",
+            "version": "java24"
+        },
+        {
+            "recommended": false,
+            "releaseTime": "2024-12-23T17:27:43+00:00",
+            "sha256": "9fc404184e6d553cc56a41476640ca4e1c90b8b4954fe9fa6654a6e19005f0be",
             "version": "java23"
         },
         {
@@ -18,7 +24,7 @@
         {
             "recommended": false,
             "releaseTime": "2023-10-11T21:35:23+00:00",
-            "sha256": "9b84b7b9eba61f33067438b5c092888ab9882120febdc46eab28489d7e8f15da",
+            "sha256": "b63ab98cf0a26c7dd919c7b0da23244f7ce62feb1cf00a9372e0ce15ed1991a6",
             "version": "java21"
         },
         {
@@ -42,7 +48,7 @@
         {
             "recommended": false,
             "releaseTime": "2023-01-07T17:48:00+00:00",
-            "sha256": "6f98a898ad392e16f8d6ae2a53a6f6e27de974622a41f17ae1e361097e017f7a",
+            "sha256": "5af976a750afaaa321b9d598de42637d8f54cdc8d6d8e6827ceab4e7b0e8789e",
             "version": "java17"
         },
         {
@@ -78,7 +84,7 @@
         {
             "recommended": false,
             "releaseTime": "2021-04-04T21:57:26+00:00",
-            "sha256": "09a75363574451cda6e68488269bc64633e3130fa88bff528cc645cdf47a97bb",
+            "sha256": "8ecf3f9be5c3ee02cab7fe588a63d4b0b7309e6d08da2f8ebdeee9ed4dee4060",
             "version": "java11"
         },
         {
@@ -90,7 +96,7 @@
         {
             "recommended": false,
             "releaseTime": "2020-11-06T22:38:25+00:00",
-            "sha256": "812dcdba18728be51b40f44b27f730ce2fd774c61870501c2707b901501fc519",
+            "sha256": "a74cb78ff5f7f5d16fe2c02db6bafe54dcc752b553d217c4030bd13caa9ebfd3",
             "version": "java8"
         }
     ]

@@ -5,6 +5,462 @@
     "runtimes": [
         {
             "checksum": {
+                "hash": "c34506736ab52768c59660a5d4246b94f57543c79b7e4b53d322dda3ec4a9302",
+                "type": "sha256"
+            },
+            "downloadType": "archive",
+            "name": "eclipse_temurin_jre8.0.462+8",
+            "packageType": "jre",
+            "releaseTime": "2025-07-21T16:54:31+00:00",
+            "runtimeOS": "linux-arm64",
+            "url": "https://github.com/adoptium/temurin8-binaries/releases/download/jdk8u462-b08/OpenJDK8U-jre_aarch64_linux_hotspot_8u462b08.tar.gz",
+            "vendor": "eclipse",
+            "version": {
+                "build": 8,
+                "major": 8,
+                "minor": 0,
+                "security": 462
+            }
+        },
+        {
+            "checksum": {
+                "hash": "6e83ffc37da053352ccaa2fd3bd7d813b9674d87aa01b35ac3e54903cd33b0d8",
+                "type": "sha256"
+            },
+            "downloadType": "archive",
+            "name": "eclipse_temurin_jre8.0.462+8",
+            "packageType": "jre",
+            "releaseTime": "2025-07-21T16:54:31+00:00",
+            "runtimeOS": "linux-x64",
+            "url": "https://github.com/adoptium/temurin8-binaries/releases/download/jdk8u462-b08/OpenJDK8U-jre_x64_linux_hotspot_8u462b08.tar.gz",
+            "vendor": "eclipse",
+            "version": {
+                "build": 8,
+                "major": 8,
+                "minor": 0,
+                "security": 462
+            }
+        },
+        {
+            "checksum": {
+                "hash": "2dd3a482078b56614da3f5cc1613aa193fbe5003b586a87d4d6931c83318d226",
+                "type": "sha256"
+            },
+            "downloadType": "archive",
+            "name": "eclipse_temurin_jre8.0.462+8",
+            "packageType": "jre",
+            "releaseTime": "2025-07-21T16:54:31+00:00",
+            "runtimeOS": "windows-x86",
+            "url": "https://github.com/adoptium/temurin8-binaries/releases/download/jdk8u462-b08/OpenJDK8U-jre_x86-32_windows_hotspot_8u462b08.zip",
+            "vendor": "eclipse",
+            "version": {
+                "build": 8,
+                "major": 8,
+                "minor": 0,
+                "security": 462
+            }
+        },
+        {
+            "checksum": {
+                "hash": "8d054a725082607bc20af5777aff867bf94bb3b78bb523aed2caf0dcf22b8d03",
+                "type": "sha256"
+            },
+            "downloadType": "archive",
+            "name": "eclipse_temurin_jre8.0.462+8",
+            "packageType": "jre",
+            "releaseTime": "2025-07-21T16:54:31+00:00",
+            "runtimeOS": "windows-x64",
+            "url": "https://github.com/adoptium/temurin8-binaries/releases/download/jdk8u462-b08/OpenJDK8U-jre_x64_windows_hotspot_8u462b08.zip",
+            "vendor": "eclipse",
+            "version": {
+                "build": 8,
+                "major": 8,
+                "minor": 0,
+                "security": 462
+            }
+        },
+        {
+            "checksum": {
+                "hash": "d34f688e4b8f58dca0599d0f99b31729568af26837e30d997d77fc65929d7041",
+                "type": "sha256"
+            },
+            "downloadType": "archive",
+            "name": "eclipse_temurin_jre8.0.462+8",
+            "packageType": "jre",
+            "releaseTime": "2025-07-21T16:54:31+00:00",
+            "runtimeOS": "mac-os-x64",
+            "url": "https://github.com/adoptium/temurin8-binaries/releases/download/jdk8u462-b08/OpenJDK8U-jre_x64_mac_hotspot_8u462b08.tar.gz",
+            "vendor": "eclipse",
+            "version": {
+                "build": 8,
+                "major": 8,
+                "minor": 0,
+                "security": 462
+            }
+        },
+        {
+            "checksum": {
+                "hash": "48547114cef3ce1ab8e80c8140430d8fb2f23359d52ad6d7a0af28f5fe9c81f8",
+                "type": "sha256"
+            },
+            "downloadType": "archive",
+            "name": "eclipse_temurin_jre8.0.462+8",
+            "packageType": "jre",
+            "releaseTime": "2025-07-21T16:54:31+00:00",
+            "runtimeOS": "linux-arm32",
+            "url": "https://github.com/adoptium/temurin8-binaries/releases/download/jdk8u462-b08/OpenJDK8U-jre_arm_linux_hotspot_8u462b08.tar.gz",
+            "vendor": "eclipse",
+            "version": {
+                "build": 8,
+                "major": 8,
+                "minor": 0,
+                "security": 462
+            }
+        },
+        {
+            "checksum": {
+                "hash": "5d0c81fd8bee49d1b9931acaecdc528fdc9393547cf5b24880445ade6b3f2384",
+                "type": "sha256"
+            },
+            "downloadType": "archive",
+            "name": "eclipse_temurin_jre8.0.452+9",
+            "packageType": "jre",
+            "releaseTime": "2025-04-17T13:29:26+00:00",
+            "runtimeOS": "linux-arm64",
+            "url": "https://github.com/adoptium/temurin8-binaries/releases/download/jdk8u452-b09/OpenJDK8U-jre_aarch64_linux_hotspot_8u452b09.tar.gz",
+            "vendor": "eclipse",
+            "version": {
+                "build": 9,
+                "major": 8,
+                "minor": 0,
+                "security": 452
+            }
+        },
+        {
+            "checksum": {
+                "hash": "0c76f94e1b400a4da932a3f581b0788af2101819083184f40a6c76ac9b97081f",
+                "type": "sha256"
+            },
+            "downloadType": "archive",
+            "name": "eclipse_temurin_jre8.0.452+9",
+            "packageType": "jre",
+            "releaseTime": "2025-04-17T13:29:26+00:00",
+            "runtimeOS": "linux-x64",
+            "url": "https://github.com/adoptium/temurin8-binaries/releases/download/jdk8u452-b09/OpenJDK8U-jre_x64_linux_hotspot_8u452b09.tar.gz",
+            "vendor": "eclipse",
+            "version": {
+                "build": 9,
+                "major": 8,
+                "minor": 0,
+                "security": 452
+            }
+        },
+        {
+            "checksum": {
+                "hash": "802b1277505308290b6f00d8addde93e537d559cea1c826752d0cc46e7b58a5f",
+                "type": "sha256"
+            },
+            "downloadType": "archive",
+            "name": "eclipse_temurin_jre8.0.452+9",
+            "packageType": "jre",
+            "releaseTime": "2025-04-17T13:29:26+00:00",
+            "runtimeOS": "windows-x64",
+            "url": "https://github.com/adoptium/temurin8-binaries/releases/download/jdk8u452-b09/OpenJDK8U-jre_x64_windows_hotspot_8u452b09.zip",
+            "vendor": "eclipse",
+            "version": {
+                "build": 9,
+                "major": 8,
+                "minor": 0,
+                "security": 452
+            }
+        },
+        {
+            "checksum": {
+                "hash": "9059321810b1d7b6a8168f73f320e83fd76196e57a5cc8459f87c72184b055e9",
+                "type": "sha256"
+            },
+            "downloadType": "archive",
+            "name": "eclipse_temurin_jre8.0.452+9",
+            "packageType": "jre",
+            "releaseTime": "2025-04-17T13:29:26+00:00",
+            "runtimeOS": "mac-os-x64",
+            "url": "https://github.com/adoptium/temurin8-binaries/releases/download/jdk8u452-b09/OpenJDK8U-jre_x64_mac_hotspot_8u452b09.tar.gz",
+            "vendor": "eclipse",
+            "version": {
+                "build": 9,
+                "major": 8,
+                "minor": 0,
+                "security": 452
+            }
+        },
+        {
+            "checksum": {
+                "hash": "87d10a142719e84dbd367048bf793f7e1569226f8c07280d6e7e55e89838145f",
+                "type": "sha256"
+            },
+            "downloadType": "archive",
+            "name": "eclipse_temurin_jre8.0.452+9",
+            "packageType": "jre",
+            "releaseTime": "2025-04-17T13:29:26+00:00",
+            "runtimeOS": "windows-x86",
+            "url": "https://github.com/adoptium/temurin8-binaries/releases/download/jdk8u452-b09/OpenJDK8U-jre_x86-32_windows_hotspot_8u452b09.zip",
+            "vendor": "eclipse",
+            "version": {
+                "build": 9,
+                "major": 8,
+                "minor": 0,
+                "security": 452
+            }
+        },
+        {
+            "checksum": {
+                "hash": "6c0f29b6011d0baa46f90a572691b77ea93a45b4e5037141777a236956945c50",
+                "type": "sha256"
+            },
+            "downloadType": "archive",
+            "name": "eclipse_temurin_jre8.0.452+9",
+            "packageType": "jre",
+            "releaseTime": "2025-04-17T13:29:26+00:00",
+            "runtimeOS": "linux-arm32",
+            "url": "https://github.com/adoptium/temurin8-binaries/releases/download/jdk8u452-b09/OpenJDK8U-jre_arm_linux_hotspot_8u452b09.tar.gz",
+            "vendor": "eclipse",
+            "version": {
+                "build": 9,
+                "major": 8,
+                "minor": 0,
+                "security": 452
+            }
+        },
+        {
+            "checksum": {
+                "hash": "730ed649ee973b7408cf7107e90576b67e8ed4b3aebb9e3e8a1056151f373152",
+                "type": "sha256"
+            },
+            "downloadType": "archive",
+            "name": "eclipse_temurin_jre8.0.442+6",
+            "packageType": "jre",
+            "releaseTime": "2025-01-23T18:34:29+00:00",
+            "runtimeOS": "linux-arm64",
+            "url": "https://github.com/adoptium/temurin8-binaries/releases/download/jdk8u442-b06/OpenJDK8U-jre_aarch64_linux_hotspot_8u442b06.tar.gz",
+            "vendor": "eclipse",
+            "version": {
+                "build": 6,
+                "major": 8,
+                "minor": 0,
+                "security": 442
+            }
+        },
+        {
+            "checksum": {
+                "hash": "76fb88abf5aeec76b8b6acda060d7b000a44280d0bfc5b8f198b346722648126",
+                "type": "sha256"
+            },
+            "downloadType": "archive",
+            "name": "eclipse_temurin_jre8.0.442+6",
+            "packageType": "jre",
+            "releaseTime": "2025-01-23T18:34:29+00:00",
+            "runtimeOS": "windows-x64",
+            "url": "https://github.com/adoptium/temurin8-binaries/releases/download/jdk8u442-b06/OpenJDK8U-jre_x64_windows_hotspot_8u442b06.zip",
+            "vendor": "eclipse",
+            "version": {
+                "build": 6,
+                "major": 8,
+                "minor": 0,
+                "security": 442
+            }
+        },
+        {
+            "checksum": {
+                "hash": "730fe33b1fc1f7da1e325d007b475d25a063850a167b548ea4bf689d4fcd867d",
+                "type": "sha256"
+            },
+            "downloadType": "archive",
+            "name": "eclipse_temurin_jre8.0.442+6",
+            "packageType": "jre",
+            "releaseTime": "2025-01-23T18:34:29+00:00",
+            "runtimeOS": "linux-x64",
+            "url": "https://github.com/adoptium/temurin8-binaries/releases/download/jdk8u442-b06/OpenJDK8U-jre_x64_linux_hotspot_8u442b06.tar.gz",
+            "vendor": "eclipse",
+            "version": {
+                "build": 6,
+                "major": 8,
+                "minor": 0,
+                "security": 442
+            }
+        },
+        {
+            "checksum": {
+                "hash": "e2658d0808fd2f4d5ad261a8954366a9b277eabd55a404452674b56abc325fec",
+                "type": "sha256"
+            },
+            "downloadType": "archive",
+            "name": "eclipse_temurin_jre8.0.442+6",
+            "packageType": "jre",
+            "releaseTime": "2025-01-23T18:34:29+00:00",
+            "runtimeOS": "mac-os-x64",
+            "url": "https://github.com/adoptium/temurin8-binaries/releases/download/jdk8u442-b06/OpenJDK8U-jre_x64_mac_hotspot_8u442b06.tar.gz",
+            "vendor": "eclipse",
+            "version": {
+                "build": 6,
+                "major": 8,
+                "minor": 0,
+                "security": 442
+            }
+        },
+        {
+            "checksum": {
+                "hash": "b860e964ac93bf64d4cd935830af4166c6846e3bfb3ee47744c3524eafae34c5",
+                "type": "sha256"
+            },
+            "downloadType": "archive",
+            "name": "eclipse_temurin_jre8.0.442+6",
+            "packageType": "jre",
+            "releaseTime": "2025-01-23T18:34:29+00:00",
+            "runtimeOS": "windows-x86",
+            "url": "https://github.com/adoptium/temurin8-binaries/releases/download/jdk8u442-b06/OpenJDK8U-jre_x86-32_windows_hotspot_8u442b06.zip",
+            "vendor": "eclipse",
+            "version": {
+                "build": 6,
+                "major": 8,
+                "minor": 0,
+                "security": 442
+            }
+        },
+        {
+            "checksum": {
+                "hash": "055c47c5c1dfe8c9c135d87fed7a3745c17374618bc8d5acb9316d1b812c0e6d",
+                "type": "sha256"
+            },
+            "downloadType": "archive",
+            "name": "eclipse_temurin_jre8.0.442+6",
+            "packageType": "jre",
+            "releaseTime": "2025-01-23T18:34:29+00:00",
+            "runtimeOS": "linux-arm32",
+            "url": "https://github.com/adoptium/temurin8-binaries/releases/download/jdk8u442-b06/OpenJDK8U-jre_arm_linux_hotspot_8u442b06.tar.gz",
+            "vendor": "eclipse",
+            "version": {
+                "build": 6,
+                "major": 8,
+                "minor": 0,
+                "security": 442
+            }
+        },
+        {
+            "checksum": {
+                "hash": "bb8c8cc575b69e68e12a213674ec2e3848baff4f1955d2973d98e67666ab94d7",
+                "type": "sha256"
+            },
+            "downloadType": "archive",
+            "name": "eclipse_temurin_jre8.0.432+6",
+            "packageType": "jre",
+            "releaseTime": "2024-10-18T12:58:56+00:00",
+            "runtimeOS": "linux-x64",
+            "url": "https://github.com/adoptium/temurin8-binaries/releases/download/jdk8u432-b06/OpenJDK8U-jre_x64_linux_hotspot_8u432b06.tar.gz",
+            "vendor": "eclipse",
+            "version": {
+                "build": 6,
+                "major": 8,
+                "minor": 0,
+                "security": 432
+            }
+        },
+        {
+            "checksum": {
+                "hash": "786522da4c761104dd8274c81edc90126a25acaafbbbc5da886b3fb51f33cba2",
+                "type": "sha256"
+            },
+            "downloadType": "archive",
+            "name": "eclipse_temurin_jre8.0.432+6",
+            "packageType": "jre",
+            "releaseTime": "2024-10-18T12:58:56+00:00",
+            "runtimeOS": "linux-arm64",
+            "url": "https://github.com/adoptium/temurin8-binaries/releases/download/jdk8u432-b06/OpenJDK8U-jre_aarch64_linux_hotspot_8u432b06.tar.gz",
+            "vendor": "eclipse",
+            "version": {
+                "build": 6,
+                "major": 8,
+                "minor": 0,
+                "security": 432
+            }
+        },
+        {
+            "checksum": {
+                "hash": "55aac241ad7cb7c1903d4810ad705ffe2f2536a88b6a88efabb4942a9f09db33",
+                "type": "sha256"
+            },
+            "downloadType": "archive",
+            "name": "eclipse_temurin_jre8.0.432+6",
+            "packageType": "jre",
+            "releaseTime": "2024-10-18T12:58:56+00:00",
+            "runtimeOS": "mac-os-x64",
+            "url": "https://github.com/adoptium/temurin8-binaries/releases/download/jdk8u432-b06/OpenJDK8U-jre_x64_mac_hotspot_8u432b06.tar.gz",
+            "vendor": "eclipse",
+            "version": {
+                "build": 6,
+                "major": 8,
+                "minor": 0,
+                "security": 432
+            }
+        },
+        {
+            "checksum": {
+                "hash": "bb6f73909ea5386edcb2f570fe2da33e2a48b008f404fce75a417d6c170bad13",
+                "type": "sha256"
+            },
+            "downloadType": "archive",
+            "name": "eclipse_temurin_jre8.0.432+6",
+            "packageType": "jre",
+            "releaseTime": "2024-10-18T12:58:56+00:00",
+            "runtimeOS": "windows-x64",
+            "url": "https://github.com/adoptium/temurin8-binaries/releases/download/jdk8u432-b06/OpenJDK8U-jre_x64_windows_hotspot_8u432b06.zip",
+            "vendor": "eclipse",
+            "version": {
+                "build": 6,
+                "major": 8,
+                "minor": 0,
+                "security": 432
+            }
+        },
+        {
+            "checksum": {
+                "hash": "2e50c4a352570e806d3503745b6a647b914421932f7072cb695861842caf3303",
+                "type": "sha256"
+            },
+            "downloadType": "archive",
+            "name": "eclipse_temurin_jre8.0.432+6",
+            "packageType": "jre",
+            "releaseTime": "2024-10-18T12:58:56+00:00",
+            "runtimeOS": "windows-x86",
+            "url": "https://github.com/adoptium/temurin8-binaries/releases/download/jdk8u432-b06/OpenJDK8U-jre_x86-32_windows_hotspot_8u432b06.zip",
+            "vendor": "eclipse",
+            "version": {
+                "build": 6,
+                "major": 8,
+                "minor": 0,
+                "security": 432
+            }
+        },
+        {
+            "checksum": {
+                "hash": "49894dbe2f915dfad026cf7b4013118c0284e88359172499b1b25a4dac195ff1",
+                "type": "sha256"
+            },
+            "downloadType": "archive",
+            "name": "eclipse_temurin_jre8.0.432+6",
+            "packageType": "jre",
+            "releaseTime": "2024-10-18T12:58:56+00:00",
+            "runtimeOS": "linux-arm32",
+            "url": "https://github.com/adoptium/temurin8-binaries/releases/download/jdk8u432-b06/OpenJDK8U-jre_arm_linux_hotspot_8u432b06.tar.gz",
+            "vendor": "eclipse",
+            "version": {
+                "build": 6,
+                "major": 8,
+                "minor": 0,
+                "security": 432
+            }
+        },
+        {
+            "checksum": {
                 "hash": "814a1e262c10cb3f056adbdb20396564fe9ea0f039a863bae6b648f7680b30cc",
                 "type": "sha256"
             },
