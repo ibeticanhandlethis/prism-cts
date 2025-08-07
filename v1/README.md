@@ -14,3 +14,4 @@ Open Settings, go to APIs, and set Metadata Server to `https://ctsmeta.latteru.r
 - [c-4](http://ctsmeta.latteru.ru/net.fabricmc.intermediary/1.16_combat-4.json)
 ## Updates
 This repository is, well, for one version and doesn't really requires updating, BUT, since this metaserver is being used not only for CTS, but also as global server, still I have to update it whenever new version of Minecraft comes out. I can forget about it, sorry. DM me on Discord (@808kickdistortion) if I forgot and you need a new version.
+### note: i have installed auto pull system so it might work if it doesnt sorry.
