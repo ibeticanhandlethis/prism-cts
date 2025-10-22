@@ -3,7 +3,7 @@
     "packages": [
         {
             "name": "Java Runtimes",
-            "sha256": "4ec947905cfd9aa3f799bbfe35bcc8849e2769345e7bb94352c7d54d255ba204",
+            "sha256": "51594bdd9c661a8b332418d9872c54c7f485df8e661e51114a98b062f468d195",
             "uid": "com.azul.java"
         },
         {
@@ -33,7 +33,7 @@
         },
         {
             "name": "Java Runtimes",
-            "sha256": "238f300031e473127f4faa56b005be6692b9355475385098d7abf8dc8139c2e5",
+            "sha256": "e86afd8e2c3f31a0295ca392268fc81dde2083cc3656e2b17bbb4497bf8f5290",
             "uid": "net.minecraft.java"
         },
         {
@@ -43,7 +43,7 @@
         },
         {
             "name": "NeoForge",
-            "sha256": "9d906612a8a71982f4e4f3d4998b87c5eb8c0e5e0e36b9455bf1a6e7a5423eb3",
+            "sha256": "0944447936bd2c7a3037741a57da12da7a71cb783fa3bb7a7ed34c4ffc09e817",
             "uid": "net.neoforged"
         },
         {
@@ -53,7 +53,7 @@
         },
         {
             "name": "LWJGL 3",
-            "sha256": "93c4aa3fcd89245ec8077e68de07858e1b6ba9a57e1a7bddd4b8fa97e18cdbee",
+            "sha256": "d0047ee8ed5709f695f73dc07a16368020a548b51cfd04e3356fd40f5b43ec0a",
             "uid": "org.lwjgl3"
         },
         {
