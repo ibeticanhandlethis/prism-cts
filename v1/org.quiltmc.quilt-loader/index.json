@@ -5,6 +5,42 @@
     "versions": [
         {
             "recommended": false,
+            "releaseTime": "2026-02-17T01:38:26+00:00",
+            "requires": [
+                {
+                    "uid": "net.fabricmc.intermediary"
+                }
+            ],
+            "sha256": "1fee2ae79fa10e7efb7deb8aed384a3d694a72338364e3191ea63e700a6ffa77",
+            "type": "release",
+            "version": "0.30.0-beta.3"
+        },
+        {
+            "recommended": false,
+            "releaseTime": "2026-02-17T00:48:36+00:00",
+            "requires": [
+                {
+                    "uid": "net.fabricmc.intermediary"
+                }
+            ],
+            "sha256": "65bff75e427c39ac4466f3976d8da5023ff0e580050e90749a052d9267d38b3a",
+            "type": "release",
+            "version": "0.30.0-beta.2"
+        },
+        {
+            "recommended": false,
+            "releaseTime": "2025-12-12T03:39:22+00:00",
+            "requires": [
+                {
+                    "uid": "net.fabricmc.intermediary"
+                }
+            ],
+            "sha256": "cf534dfda85519a63796b1de244cf67bd46bc2700a081152dbbdc7f38c16bbc5",
+            "type": "release",
+            "version": "0.30.0-beta.0"
+        },
+        {
+            "recommended": false,
             "releaseTime": "2025-10-25T20:57:12+00:00",
             "requires": [
                 {
