@@ -62,74 +62,74 @@
         },
         {
             "checksum": {
-                "hash": "cefbc7f061885e46e71ab0d34a1d7d05f8a792058e57392f82dfe4cee240342b",
+                "hash": "71d75c4d3f5b51b22503b86adc0fb7a2182569d60e6c7fc7a3a89f280c4fd8e1",
                 "type": "sha256"
             },
             "downloadType": "archive",
             "name": "java-runtime-gamma-snapshot",
             "packageType": "jre",
-            "releaseTime": "2026-01-23T17:52:19+00:00",
+            "releaseTime": "2026-04-17T20:21:34+00:00",
             "runtimeOS": "linux-x86",
-            "url": "https://cdn.azul.com/zulu/bin/zulu17.64.17-ca-jre17.0.18-linux_i686.zip",
+            "url": "https://cdn.azul.com/zulu/bin/zulu17.66.19-ca-jre17.0.19-linux_i686.zip",
             "vendor": "azul",
             "version": {
                 "major": 17,
                 "minor": 0,
-                "security": 18
+                "security": 19
             }
         },
         {
             "checksum": {
-                "hash": "cefbc7f061885e46e71ab0d34a1d7d05f8a792058e57392f82dfe4cee240342b",
+                "hash": "71d75c4d3f5b51b22503b86adc0fb7a2182569d60e6c7fc7a3a89f280c4fd8e1",
                 "type": "sha256"
             },
             "downloadType": "archive",
             "name": "java-runtime-gamma-snapshot",
             "packageType": "jre",
-            "releaseTime": "2026-01-23T17:52:19+00:00",
+            "releaseTime": "2026-04-17T20:21:34+00:00",
             "runtimeOS": "linux-x86",
-            "url": "https://cdn.azul.com/zulu/bin/zulu17.64.17-ca-jre17.0.18-linux_i686.zip",
+            "url": "https://cdn.azul.com/zulu/bin/zulu17.66.19-ca-jre17.0.19-linux_i686.zip",
             "vendor": "azul",
             "version": {
                 "major": 17,
                 "minor": 0,
-                "security": 18
+                "security": 19
             }
         },
         {
             "checksum": {
-                "hash": "cefbc7f061885e46e71ab0d34a1d7d05f8a792058e57392f82dfe4cee240342b",
+                "hash": "71d75c4d3f5b51b22503b86adc0fb7a2182569d60e6c7fc7a3a89f280c4fd8e1",
                 "type": "sha256"
             },
             "downloadType": "archive",
             "name": "java-runtime-gamma-snapshot",
             "packageType": "jre",
-            "releaseTime": "2026-01-23T17:52:19+00:00",
+            "releaseTime": "2026-04-17T20:21:34+00:00",
             "runtimeOS": "linux-x86",
-            "url": "https://cdn.azul.com/zulu/bin/zulu17.64.17-ca-jre17.0.18-linux_i686.zip",
+            "url": "https://cdn.azul.com/zulu/bin/zulu17.66.19-ca-jre17.0.19-linux_i686.zip",
             "vendor": "azul",
             "version": {
                 "major": 17,
                 "minor": 0,
-                "security": 18
+                "security": 19
             }
         },
         {
             "checksum": {
-                "hash": "cefbc7f061885e46e71ab0d34a1d7d05f8a792058e57392f82dfe4cee240342b",
+                "hash": "71d75c4d3f5b51b22503b86adc0fb7a2182569d60e6c7fc7a3a89f280c4fd8e1",
                 "type": "sha256"
             },
             "downloadType": "archive",
             "name": "java-runtime-gamma-snapshot",
             "packageType": "jre",
-            "releaseTime": "2026-01-23T17:52:19+00:00",
+            "releaseTime": "2026-04-17T20:21:34+00:00",
             "runtimeOS": "linux-x86",
-            "url": "https://cdn.azul.com/zulu/bin/zulu17.64.17-ca-jre17.0.18-linux_i686.zip",
+            "url": "https://cdn.azul.com/zulu/bin/zulu17.66.19-ca-jre17.0.19-linux_i686.zip",
             "vendor": "azul",
             "version": {
                 "major": 17,
                 "minor": 0,
-                "security": 18
+                "security": 19
             }
         },
         {
@@ -536,154 +536,154 @@
         },
         {
             "checksum": {
-                "hash": "88727c16610d118c0e739f62e6c99dc1cb5a7b4a93a27054fe2a3aa7150e7b5d",
+                "hash": "aae834297a87736869745be7c1fca3207ea9167c5824f41c88b0ebb2e3ccb9b1",
                 "type": "sha256"
             },
             "downloadType": "archive",
             "name": "java-runtime-gamma-snapshot",
             "packageType": "jre",
-            "releaseTime": "2026-01-21T14:08:41+00:00",
+            "releaseTime": "2026-04-22T16:14:09+00:00",
             "runtimeOS": "linux-arm64",
-            "url": "https://github.com/adoptium/temurin17-binaries/releases/download/jdk-17.0.18%2B8/OpenJDK17U-jre_aarch64_linux_hotspot_17.0.18_8.tar.gz",
+            "url": "https://github.com/adoptium/temurin17-binaries/releases/download/jdk-17.0.19%2B10/OpenJDK17U-jre_aarch64_linux_hotspot_17.0.19_10.tar.gz",
             "vendor": "eclipse",
             "version": {
-                "build": 8,
+                "build": 10,
                 "major": 17,
                 "minor": 0,
-                "security": 18
+                "security": 19
             }
         },
         {
             "checksum": {
-                "hash": "88727c16610d118c0e739f62e6c99dc1cb5a7b4a93a27054fe2a3aa7150e7b5d",
+                "hash": "aae834297a87736869745be7c1fca3207ea9167c5824f41c88b0ebb2e3ccb9b1",
                 "type": "sha256"
             },
             "downloadType": "archive",
             "name": "java-runtime-gamma-snapshot",
             "packageType": "jre",
-            "releaseTime": "2026-01-21T14:08:41+00:00",
+            "releaseTime": "2026-04-22T16:14:09+00:00",
             "runtimeOS": "linux-arm64",
-            "url": "https://github.com/adoptium/temurin17-binaries/releases/download/jdk-17.0.18%2B8/OpenJDK17U-jre_aarch64_linux_hotspot_17.0.18_8.tar.gz",
+            "url": "https://github.com/adoptium/temurin17-binaries/releases/download/jdk-17.0.19%2B10/OpenJDK17U-jre_aarch64_linux_hotspot_17.0.19_10.tar.gz",
             "vendor": "eclipse",
             "version": {
-                "build": 8,
+                "build": 10,
                 "major": 17,
                 "minor": 0,
-                "security": 18
+                "security": 19
             }
         },
         {
             "checksum": {
-                "hash": "88727c16610d118c0e739f62e6c99dc1cb5a7b4a93a27054fe2a3aa7150e7b5d",
+                "hash": "aae834297a87736869745be7c1fca3207ea9167c5824f41c88b0ebb2e3ccb9b1",
                 "type": "sha256"
             },
             "downloadType": "archive",
             "name": "java-runtime-gamma-snapshot",
             "packageType": "jre",
-            "releaseTime": "2026-01-21T14:08:41+00:00",
+            "releaseTime": "2026-04-22T16:14:09+00:00",
             "runtimeOS": "linux-arm64",
-            "url": "https://github.com/adoptium/temurin17-binaries/releases/download/jdk-17.0.18%2B8/OpenJDK17U-jre_aarch64_linux_hotspot_17.0.18_8.tar.gz",
+            "url": "https://github.com/adoptium/temurin17-binaries/releases/download/jdk-17.0.19%2B10/OpenJDK17U-jre_aarch64_linux_hotspot_17.0.19_10.tar.gz",
             "vendor": "eclipse",
             "version": {
-                "build": 8,
+                "build": 10,
                 "major": 17,
                 "minor": 0,
-                "security": 18
+                "security": 19
             }
         },
         {
             "checksum": {
-                "hash": "88727c16610d118c0e739f62e6c99dc1cb5a7b4a93a27054fe2a3aa7150e7b5d",
+                "hash": "aae834297a87736869745be7c1fca3207ea9167c5824f41c88b0ebb2e3ccb9b1",
                 "type": "sha256"
             },
             "downloadType": "archive",
             "name": "java-runtime-gamma-snapshot",
             "packageType": "jre",
-            "releaseTime": "2026-01-21T14:08:41+00:00",
+            "releaseTime": "2026-04-22T16:14:09+00:00",
             "runtimeOS": "linux-arm64",
-            "url": "https://github.com/adoptium/temurin17-binaries/releases/download/jdk-17.0.18%2B8/OpenJDK17U-jre_aarch64_linux_hotspot_17.0.18_8.tar.gz",
+            "url": "https://github.com/adoptium/temurin17-binaries/releases/download/jdk-17.0.19%2B10/OpenJDK17U-jre_aarch64_linux_hotspot_17.0.19_10.tar.gz",
             "vendor": "eclipse",
             "version": {
-                "build": 8,
+                "build": 10,
                 "major": 17,
                 "minor": 0,
-                "security": 18
+                "security": 19
             }
         },
         {
             "checksum": {
-                "hash": "2c12bc1a94c04702935f61f5d15e4950c1ae3f02936931fcc15affc3d22f5d48",
+                "hash": "08c8c193fc2e8e6eb4450d3ddcefa78889eef338b2bbc0b30e5a6d586fc6d646",
                 "type": "sha256"
             },
             "downloadType": "archive",
             "name": "java-runtime-gamma-snapshot",
             "packageType": "jre",
-            "releaseTime": "2026-01-21T14:08:41+00:00",
+            "releaseTime": "2026-04-22T16:14:09+00:00",
             "runtimeOS": "linux-riscv64",
-            "url": "https://github.com/adoptium/temurin17-binaries/releases/download/jdk-17.0.18%2B8/OpenJDK17U-jre_riscv64_linux_hotspot_17.0.18_8.tar.gz",
+            "url": "https://github.com/adoptium/temurin17-binaries/releases/download/jdk-17.0.19%2B10/OpenJDK17U-jre_riscv64_linux_hotspot_17.0.19_10.tar.gz",
             "vendor": "eclipse",
             "version": {
-                "build": 8,
+                "build": 10,
                 "major": 17,
                 "minor": 0,
-                "security": 18
+                "security": 19
             }
         },
         {
             "checksum": {
-                "hash": "2c12bc1a94c04702935f61f5d15e4950c1ae3f02936931fcc15affc3d22f5d48",
+                "hash": "08c8c193fc2e8e6eb4450d3ddcefa78889eef338b2bbc0b30e5a6d586fc6d646",
                 "type": "sha256"
             },
             "downloadType": "archive",
             "name": "java-runtime-gamma-snapshot",
             "packageType": "jre",
-            "releaseTime": "2026-01-21T14:08:41+00:00",
+            "releaseTime": "2026-04-22T16:14:09+00:00",
             "runtimeOS": "linux-riscv64",
-            "url": "https://github.com/adoptium/temurin17-binaries/releases/download/jdk-17.0.18%2B8/OpenJDK17U-jre_riscv64_linux_hotspot_17.0.18_8.tar.gz",
+            "url": "https://github.com/adoptium/temurin17-binaries/releases/download/jdk-17.0.19%2B10/OpenJDK17U-jre_riscv64_linux_hotspot_17.0.19_10.tar.gz",
             "vendor": "eclipse",
             "version": {
-                "build": 8,
+                "build": 10,
                 "major": 17,
                 "minor": 0,
-                "security": 18
+                "security": 19
             }
         },
         {
             "checksum": {
-                "hash": "2c12bc1a94c04702935f61f5d15e4950c1ae3f02936931fcc15affc3d22f5d48",
+                "hash": "08c8c193fc2e8e6eb4450d3ddcefa78889eef338b2bbc0b30e5a6d586fc6d646",
                 "type": "sha256"
             },
             "downloadType": "archive",
             "name": "java-runtime-gamma-snapshot",
             "packageType": "jre",
-            "releaseTime": "2026-01-21T14:08:41+00:00",
+            "releaseTime": "2026-04-22T16:14:09+00:00",
             "runtimeOS": "linux-riscv64",
-            "url": "https://github.com/adoptium/temurin17-binaries/releases/download/jdk-17.0.18%2B8/OpenJDK17U-jre_riscv64_linux_hotspot_17.0.18_8.tar.gz",
+            "url": "https://github.com/adoptium/temurin17-binaries/releases/download/jdk-17.0.19%2B10/OpenJDK17U-jre_riscv64_linux_hotspot_17.0.19_10.tar.gz",
             "vendor": "eclipse",
             "version": {
-                "build": 8,
+                "build": 10,
                 "major": 17,
                 "minor": 0,
-                "security": 18
+                "security": 19
             }
         },
         {
             "checksum": {
-                "hash": "2c12bc1a94c04702935f61f5d15e4950c1ae3f02936931fcc15affc3d22f5d48",
+                "hash": "08c8c193fc2e8e6eb4450d3ddcefa78889eef338b2bbc0b30e5a6d586fc6d646",
                 "type": "sha256"
             },
             "downloadType": "archive",
             "name": "java-runtime-gamma-snapshot",
             "packageType": "jre",
-            "releaseTime": "2026-01-21T14:08:41+00:00",
+            "releaseTime": "2026-04-22T16:14:09+00:00",
             "runtimeOS": "linux-riscv64",
-            "url": "https://github.com/adoptium/temurin17-binaries/releases/download/jdk-17.0.18%2B8/OpenJDK17U-jre_riscv64_linux_hotspot_17.0.18_8.tar.gz",
+            "url": "https://github.com/adoptium/temurin17-binaries/releases/download/jdk-17.0.19%2B10/OpenJDK17U-jre_riscv64_linux_hotspot_17.0.19_10.tar.gz",
             "vendor": "eclipse",
             "version": {
-                "build": 8,
+                "build": 10,
                 "major": 17,
                 "minor": 0,
-                "security": 18
+                "security": 19
             }
         }
     ],

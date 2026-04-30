@@ -5,6 +5,186 @@
     "versions": [
         {
             "recommended": false,
+            "releaseTime": "2026-04-27T17:48:08+00:00",
+            "requires": [
+                {
+                    "equals": "26.1.2",
+                    "uid": "net.minecraft"
+                }
+            ],
+            "sha256": "8833e2bc58c2a7e901b62b1bc05c44b26561f270b55a94af344ca7d8e4ff858b",
+            "version": "64.0.6"
+        },
+        {
+            "recommended": false,
+            "releaseTime": "2026-04-23T21:39:48+00:00",
+            "requires": [
+                {
+                    "equals": "26.1.2",
+                    "uid": "net.minecraft"
+                }
+            ],
+            "sha256": "d5a5c694a6ffad4ea53c53d1b2141af1034c8300ebf7dc9868f6c589cf713b19",
+            "version": "64.0.5"
+        },
+        {
+            "recommended": false,
+            "releaseTime": "2026-04-15T21:23:25+00:00",
+            "requires": [
+                {
+                    "equals": "26.1.2",
+                    "uid": "net.minecraft"
+                }
+            ],
+            "sha256": "1b25e81fb0009986d0df4ef26f2a799065036feec21fcc0d51f3a0f18e49fe15",
+            "version": "64.0.4"
+        },
+        {
+            "recommended": false,
+            "releaseTime": "2026-04-15T21:22:58+00:00",
+            "requires": [
+                {
+                    "equals": "26.1.2",
+                    "uid": "net.minecraft"
+                }
+            ],
+            "sha256": "a4d6fa15a106c68f6f723234444403a3311fba851a0914cf9dce7635e9594893",
+            "version": "64.0.3"
+        },
+        {
+            "recommended": false,
+            "releaseTime": "2026-04-15T21:22:45+00:00",
+            "requires": [
+                {
+                    "equals": "26.1.2",
+                    "uid": "net.minecraft"
+                }
+            ],
+            "sha256": "6160b2d48787f6c500fe9f54f38538dd4a102f98d076f22fd73200d6366ca4b8",
+            "version": "64.0.2"
+        },
+        {
+            "recommended": false,
+            "releaseTime": "2026-04-12T19:57:45+00:00",
+            "requires": [
+                {
+                    "equals": "26.1.2",
+                    "uid": "net.minecraft"
+                }
+            ],
+            "sha256": "413ec6dc1a35f667fcefcab9a027a1edd8af3fffdae0d841a9c4154b845e82f4",
+            "version": "64.0.1"
+        },
+        {
+            "recommended": false,
+            "releaseTime": "2026-04-10T15:09:44+00:00",
+            "requires": [
+                {
+                    "equals": "1.20.1",
+                    "uid": "net.minecraft"
+                }
+            ],
+            "sha256": "184c4deca5f32573be32e4aad78c727296cc59802eefefe7c5da7537828b726c",
+            "version": "47.4.20"
+        },
+        {
+            "recommended": false,
+            "releaseTime": "2026-04-09T17:20:16+00:00",
+            "requires": [
+                {
+                    "equals": "26.1.2",
+                    "uid": "net.minecraft"
+                }
+            ],
+            "sha256": "f49ec44104a1ec9c34315cb4cd08ade3fb15e411c0245d880aa38fdf6d3cc142",
+            "version": "64.0.0"
+        },
+        {
+            "recommended": false,
+            "releaseTime": "2026-04-08T19:29:48+00:00",
+            "requires": [
+                {
+                    "equals": "26.1.1",
+                    "uid": "net.minecraft"
+                }
+            ],
+            "sha256": "4ac98d3233b005a17635cc9e4e8460e5ed2208c5ee5701a81ccd5921aa1dde8c",
+            "version": "63.0.2"
+        },
+        {
+            "recommended": false,
+            "releaseTime": "2026-04-03T16:34:43+00:00",
+            "requires": [
+                {
+                    "equals": "26.1.1",
+                    "uid": "net.minecraft"
+                }
+            ],
+            "sha256": "cf15be8c0540217bb61559d19da83d6a67ce97ad2d10e80b7eb7baf96ec8d956",
+            "version": "63.0.1"
+        },
+        {
+            "recommended": false,
+            "releaseTime": "2026-04-01T17:45:58+00:00",
+            "requires": [
+                {
+                    "equals": "26.1.1",
+                    "uid": "net.minecraft"
+                }
+            ],
+            "sha256": "28c489a9e95c5f0124128a96bbff20f4ee9baae89d918f0eb4982ad147a40e63",
+            "version": "63.0.0"
+        },
+        {
+            "recommended": false,
+            "releaseTime": "2026-03-29T22:47:33+00:00",
+            "requires": [
+                {
+                    "equals": "26.1",
+                    "uid": "net.minecraft"
+                }
+            ],
+            "sha256": "a9a8b5ae2deba80f6b809ec5141e5eded11b5ad41df83199210e7509e3a8753b",
+            "version": "62.0.9"
+        },
+        {
+            "recommended": false,
+            "releaseTime": "2026-03-29T09:25:00+00:00",
+            "requires": [
+                {
+                    "equals": "26.1",
+                    "uid": "net.minecraft"
+                }
+            ],
+            "sha256": "d50a9842ce12864cd9a03c61b10c9b2d84583e40f4ee4c122abfde20672261b4",
+            "version": "62.0.8"
+        },
+        {
+            "recommended": false,
+            "releaseTime": "2026-03-29T06:45:46+00:00",
+            "requires": [
+                {
+                    "equals": "26.1",
+                    "uid": "net.minecraft"
+                }
+            ],
+            "sha256": "0f9cb605773bafb66adeb2339f1f1648d6b41b95783a7946e9f85326714c5387",
+            "version": "62.0.5"
+        },
+        {
+            "recommended": false,
+            "releaseTime": "2026-03-27T23:09:04+00:00",
+            "requires": [
+                {
+                    "equals": "26.1",
+                    "uid": "net.minecraft"
+                }
+            ],
+            "sha256": "db5ec3bd2a3685dabdffc2e455b6b1c9fa6d6bde69d67331952f0dcbd484ca8c",
+            "version": "62.0.4"
+        },
+        {
+            "recommended": false,
             "releaseTime": "2026-03-26T01:38:41+00:00",
             "requires": [
                 {
@@ -292,7 +472,7 @@
             "version": "53.1.9"
         },
         {
-            "recommended": false,
+            "recommended": true,
             "releaseTime": "2026-03-17T20:25:11+00:00",
             "requires": [
                 {
@@ -3232,7 +3412,7 @@
             "version": "53.0.45"
         },
         {
-            "recommended": true,
+            "recommended": false,
             "releaseTime": "2025-02-12T20:38:52+00:00",
             "requires": [
                 {
