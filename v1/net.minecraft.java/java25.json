@@ -100,40 +100,40 @@
         },
         {
             "checksum": {
-                "hash": "e90ad4a618a0228a2126e7c6abfbc0729e2649d7d72cef45fd640239866eb050",
+                "hash": "1f2644427000316bc431df3389504551ed7464fe8486bf6b4f1130af9ffc8f55",
                 "type": "sha256"
             },
             "downloadType": "archive",
             "name": "java-runtime-epsilon",
             "packageType": "jre",
-            "releaseTime": "2026-01-22T08:56:31+00:00",
+            "releaseTime": "2026-07-27T17:54:20+00:00",
             "runtimeOS": "linux-arm64",
-            "url": "https://github.com/adoptium/temurin25-binaries/releases/download/jdk-25.0.2%2B10/OpenJDK25U-jre_aarch64_linux_hotspot_25.0.2_10.tar.gz",
+            "url": "https://github.com/adoptium/temurin25-binaries/releases/download/jdk-25.0.4%2B7/OpenJDK25U-jre_aarch64_linux_hotspot_25.0.4_7.tar.gz",
             "vendor": "eclipse",
             "version": {
-                "build": 10,
+                "build": 7,
                 "major": 25,
                 "minor": 0,
-                "security": 2
+                "security": 4
             }
         },
         {
             "checksum": {
-                "hash": "0be0aa0a9578d229c2de2e9e05741d1c0726185a2017f8ce2249989f79dc9562",
+                "hash": "ee3e62f50e2bdd5b65f9f8937b33d862846d0245bc1be0dd8e3a99ea10fce32a",
                 "type": "sha256"
             },
             "downloadType": "archive",
             "name": "java-runtime-epsilon",
             "packageType": "jre",
-            "releaseTime": "2026-01-22T08:56:31+00:00",
+            "releaseTime": "2026-07-27T17:54:20+00:00",
             "runtimeOS": "linux-riscv64",
-            "url": "https://github.com/adoptium/temurin25-binaries/releases/download/jdk-25.0.2%2B10/OpenJDK25U-jre_riscv64_linux_hotspot_25.0.2_10.tar.gz",
+            "url": "https://github.com/adoptium/temurin25-binaries/releases/download/jdk-25.0.4%2B7/OpenJDK25U-jre_riscv64_linux_hotspot_25.0.4_7.tar.gz",
             "vendor": "eclipse",
             "version": {
-                "build": 10,
+                "build": 7,
                 "major": 25,
                 "minor": 0,
-                "security": 2
+                "security": 4
             }
         }
     ],
